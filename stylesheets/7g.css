@@ -1,0 +1,24 @@
+*{
+  vertical-align: middle;
+}
+
+.pp{
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+  margin-right: 6px;
+}
+
+.tweet-content{
+  border: none;
+}
+
+.tweet{
+  border: none;
+  color: white;
+  background-color: rgb(17, 139, 221);
+  border-radius: 50px;
+  padding: 6px 12px;
+}

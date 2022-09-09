@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.label{
+  color: grey;
+  margin: 10px 10px 0 10px;
+}
+
+.text-box{
+  margin: 3px 10px 10px 10px;
+  border-radius: 4px;
+  border: solid black 1px;
+}
+
+.condition{
+  margin: 10px;
+  font-size: 12px;
+  color: grey;
+}
+
+.confirm{
+  margin: 10px;
+  background-color: rgb(54, 102, 233);
+  color: white;
+  border: none;
+  padding: 10px 70px;
+  border-radius: 100px;
+}

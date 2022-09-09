@@ -1,0 +1,7 @@
+.Search{
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  border-radius: 30px;
+  width: 400px;
+}
